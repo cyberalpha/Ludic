@@ -1,0 +1,63 @@
+Cambio By ^[AlaNN]^
+
+*Oro y exp de server.ini
+*Ip oculto
+*Puerto oculto
+*Nombres siempre visible
+*Oro directo a la bille
+*Dados 18/18
+*Se medita cada 1 segundo
+*Skills suben faciles
+*Se saco el tutorial de entrada
+*Se sacaron todas las presentaciones
+*Se sacaron NOTICIAS
+*Se saco Recuperar Personaje
+*Se saco Codigo Fuente
+*Se saco Borrar personaje
+*Se saco VER FORO
+*Se agrego el comando /trigger 7 "Auto resu"
+*Se agrego el comando /cara "Numero"
+*Se saco REGLAMENTO
+*Se saco MANUAL
+*Anti Engine
+*No se puede arrojar oro al suelo
+* Se arreglaron la nobleza de armada
+* Se cambiaron los puntos para enlistarse en la armada/legion
+* No se puede crear clan mas de 25 letras
+* Anti doble cliente
+* Se saco el tiempo del /hogar
+* Al entrar te salta un cartel que decia "Gracias por jugar"
+* Se saco el comando /comerciar, para evitar duplicaciones de items
+* Cuando mandan /gm, avisa por consola a los game masters
+* Al hacerle click a un usuario dice cuantos tiene matados
+* Se cambio el icono del .exe
+* Se limpia el mundo cada 30 minutos
+* Se medita grande al nivel 45
+* La ville soporte mas de 20000000 de oro
+
+LudicAO por CYB
+
+*Se lingotea de a 50
+*Se mina de a normal
+*Se pesca de a normal
+*Se tala de a normal
+*Nivel maximo 100
+*Es necesario tener mas de 3 caracteristicas y menos de 20 para crear personaje
+*Se puede morir de hambre o de sed, ojo con el hechizo quitar hambre
+*El envenenamiento es disminuido por 10 %, ojo con el hechizo envenenar 
+*Toxina 50 de mana
+*Se ve el nombre de los items caidos
+*Se avisa a tu clan si moriste automaticamente
+*se muestra el nombre del mapa
+*Se mejoró la AI
+*Mana: Mago*3 / Druida*2.8 / Bardo*2.5 / Cleri*2.2 / Ase*2 / Pala*1.6 / Bandi*1.3
+*Se Agentinizaron las palabras mágicas 
+*Mana inicial variable para todos y diferenciado 
+*Daño de apu sobre la cabeza.
+*/HOGAR en 6 segundos
+*Informa nuevas capacidades al cambio de nivel
+*5 opciones de drop en TODOS los npc
+
+AO Ludic por CYB & Brommers
+
+*Mana: Mago*3 / Druida*2.8 / Bardo*2.5 / Cleri*2.2 / Ase*2 / Pala*1.6 / Bandi*1.3

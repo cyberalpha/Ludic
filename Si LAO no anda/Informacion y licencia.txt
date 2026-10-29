@@ -1,0 +1,26 @@
+AjpdSoft Registro de OCX y DLL (Código fuente en Delphi 6 incluido)
+Versión 2.2.4.35 (24-01-2006)
+
+--------------------------------------------------------
+¿PARA QUÉ SIRVE EL PROGRAMA?
+--------------------------------------------------------
+
+Registra ficheros OCX y DLL, permite registrar múltiples ficheros a la vez.
+Utiliza una llamada al comando regsvr32 de Windows.
+
+
+--------------------------------------------------------
+Responsabilidades y tipo de licencia
+--------------------------------------------------------
+
+AjpdSoft no se responsabiliza del uso que usted pueda dar a este programa. Este programa es de libre distribución y no tiene restricciones. El desarrollador no se responsabiliza de los daños que el mal uso de este programa pueda causar a su equipo o a sus datos. Este programa NO es para uso comercial.
+
+------------------------
+Más información
+------------------------
+
+Si desea obtener más información o enviarnos cualquier incidencia o sugerencia, por favor, regístrese en nuestra web (es gratuito): http://www.ajpdsoft.com y desde la sección "Incidencias de programas" podrá enviarnos la duda/sugerencia/incidencia de la aplicación.
+
+
+Todos los derechos de copia reservados, AjpdSoft 1995-2006
+www.ajpdsoft.com
